@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
 public class testAddToGit {
+    // this is first Commit to file in project in github
 }
