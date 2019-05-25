@@ -18,7 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RX.RXActivity"></activity>
+        <activity android:name=".RX.RXActivity" />
+        <activity android:name=".MVVM.View.MainActivity_mvvm"></activity>
     </application>
 
 </manifest>
